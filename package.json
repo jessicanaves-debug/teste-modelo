@@ -8,8 +8,9 @@
     "start": "next start",
     "lint": "next lint"
   },
-  "dependencies": {
+"dependencies": {
     "@anthropic-ai/sdk": "^0.32.1",
+    "jszip": "^3.10.1",
     "@google/generative-ai": "^0.24.1",
     "clsx": "^2.1.1",
     "jspdf": "^2.5.2",
